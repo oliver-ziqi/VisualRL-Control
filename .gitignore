@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.idea/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+work/
+data/replay_buffer/
+monitor.csv
+after_training.mp4
+after_training.meta.json
